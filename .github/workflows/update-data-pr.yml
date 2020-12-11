@@ -16,4 +16,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.RUNEQL_DATA_PUSH }}
           BRANCH_PREFIX: "update"
+          PULL_REQUEST_TITLE: ${{ github.event.head_commit.message }}
+          PULL_REQUEST_ASSIGNEES: "schmidlidev"
           PULL_REQUEST_BRANCH: "main"
