@@ -1,0 +1,19 @@
+name: Pull Request on Branch Push
+on:
+  push:
+    branches: [ main ]
+
+ # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+jobs:
+  auto-pull-request:
+    name: PullRequestAction
+    runs-on: ubuntu-latest
+    steps:
+      - name: pull-request-action
+        uses: vsoch/pull-request-action@1.0.12
+        env:
+          GITHUB_TOKEN: ${{ secrets.RUNEQL_DATA_PUSH }}
+          BRANCH_PREFIX: "update"
+          PULL_REQUEST_BRANCH: "main"
