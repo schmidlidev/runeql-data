@@ -1,0 +1,1 @@
+{"name": "bladed_staves", "stances": [{"name": "swipe", "type": "slash", "style": "aggressive"}, {"name": "spell", "type": "spellcasting", "style": "magic"}, {"name": "spell (defensive)", "type": "defensive casting", "style": "magic"}, {"name": "fend", "type": "crush", "style": "defensive"}, {"name": "jab", "type": "stab", "style": "accurate"}]}
