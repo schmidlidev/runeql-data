@@ -1,1 +1,1 @@
-{"name": "spears", "stances": [{"name": "block", "type": "stab", "style": "defensive"}, {"name": "lunge", "type": "stab", "style": "controlled"}, {"name": "swipe", "type": "slash", "style": "controlled"}, {"name": "pound", "type": "crush", "style": "controlled"}]}
+{"name": "spears", "stances": [{"name": "block", "type": "stab", "style": "defensive"}, {"name": "swipe", "type": "slash", "style": "controlled"}, {"name": "lunge", "type": "stab", "style": "controlled"}, {"name": "pound", "type": "crush", "style": "controlled"}]}
