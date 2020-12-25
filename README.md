@@ -1,6 +1,8 @@
 # runeql-data
 
-This repository is the staging area for static data served by RuneQL. 
+![Upload Data](https://github.com/schmidlidev/runeql-data/workflows/Upload%20Data/badge.svg)
+
+This repository is the staging area for static data served by RuneQL. (Items, Monsters, etc)
 This repository does *not* contain the dynamic data served by RuneQL (Live grand exchange prices, hiscores, etc).
 
 ## Source of data
@@ -13,4 +15,4 @@ All of the data in this repository is originally sourced from the incredible [os
 3. Accepting the pull request serves as a push-button deployment.
 
 ### Where does the data go from here?
-<b>[WIP]</b> Commits to `main` trigger a workflow that upserts the data to the live RuneQL mongodb database cluster. 
+Commits to `main` trigger a [workflow](https://github.com/schmidlidev/runeql-data/blob/main/.github/workflows/Upload.yml) that upserts the data to the live RuneQL MongoDB database cluster.
