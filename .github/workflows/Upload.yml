@@ -2,7 +2,7 @@ name: Upload Data
 
 on:
   push:
-    branches: [workflow] # Todo change to main
+    branches: [main]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
