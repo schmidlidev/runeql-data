@@ -1,1 +1,1 @@
-{"name": "bulwarks", "stances": [{"name": "block", "type": null, "style": "block"}, {"name": "pummel", "type": "crush", "style": "accurate"}]}
+{"name": "bulwarks", "stances": [{"name": "pummel", "type": "crush", "style": "accurate"}, {"name": "block", "type": null, "style": "block"}]}
