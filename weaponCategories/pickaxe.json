@@ -1,0 +1,1 @@
+{"name": "pickaxe", "stances": [{"name": "spike", "type": "stab", "style": "accurate"}, {"name": "block", "type": "stab", "style": "defensive"}, {"name": "smash", "type": "crush", "style": "aggressive"}, {"name": "impale", "type": "stab", "style": "aggressive"}]}

@@ -1,1 +1,0 @@
-{"name": "staves", "stances": [{"name": "spell", "type": "spellcasting", "style": "magic"}, {"name": "pound", "type": "crush", "style": "aggressive"}, {"name": "bash", "type": "crush", "style": "accurate"}, {"name": "focus", "type": "crush", "style": "defensive"}, {"name": "spell (defensive)", "type": "defensive casting", "style": "magic"}]}
