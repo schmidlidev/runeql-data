@@ -1,1 +1,1 @@
-{"name": "scythe", "stances": [{"name": "jab", "type": "crush", "style": "aggressive"}, {"name": "block", "type": "slash", "style": "defensive"}, {"name": "reap", "type": "slash", "style": "accurate"}, {"name": "chop", "type": "slash", "style": "aggressive"}]}
+{"name": "scythe", "stances": [{"name": "jab", "type": "crush", "style": "aggressive"}, {"name": "chop", "type": "slash", "style": "aggressive"}, {"name": "block", "type": "slash", "style": "defensive"}, {"name": "reap", "type": "slash", "style": "accurate"}]}
