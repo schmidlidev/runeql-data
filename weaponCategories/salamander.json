@@ -1,1 +1,1 @@
-{"name": "salamander", "stances": [{"name": "blaze", "type": "magic", "style": "blaze"}, {"name": "flare", "type": "ranged", "style": "flare"}, {"name": "scorch", "type": "slash", "style": "scorch"}]}
+{"name": "salamander", "stances": [{"name": "flare", "type": "ranged", "style": "flare"}, {"name": "blaze", "type": "magic", "style": "blaze"}, {"name": "scorch", "type": "slash", "style": "scorch"}]}
