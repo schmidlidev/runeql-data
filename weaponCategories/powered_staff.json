@@ -1,1 +1,1 @@
-{"name": "powered_staff", "stances": [{"name": "accurate", "type": "magic", "style": "accurate"}, {"name": "longrange", "type": "magic", "style": "longrange"}]}
+{"name": "powered_staff", "stances": [{"name": "longrange", "type": "magic", "style": "longrange"}, {"name": "accurate", "type": "magic", "style": "accurate"}]}
