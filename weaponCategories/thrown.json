@@ -1,1 +1,1 @@
-{"name": "thrown", "stances": [{"name": "rapid", "type": "ranged", "style": "rapid"}, {"name": "longrange", "type": "ranged", "style": "longrange"}, {"name": "accurate", "type": "ranged", "style": "accurate"}]}
+{"name": "thrown", "stances": [{"name": "accurate", "type": "ranged", "style": "accurate"}, {"name": "rapid", "type": "ranged", "style": "rapid"}, {"name": "longrange", "type": "ranged", "style": "longrange"}]}
