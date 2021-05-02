@@ -1,1 +1,1 @@
-{"name": "polestaff", "stances": [{"name": "pound", "type": "crush", "style": "aggressive"}, {"name": "block", "type": "crush", "style": "defensive"}, {"name": "bash", "type": "crush", "style": "accurate"}]}
+{"name": "polestaff", "stances": [{"name": "bash", "type": "crush", "style": "accurate"}, {"name": "pound", "type": "crush", "style": "aggressive"}, {"name": "block", "type": "crush", "style": "defensive"}]}
