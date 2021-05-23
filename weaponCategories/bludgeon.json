@@ -1,1 +1,1 @@
-{"name": "bludgeon", "stances": [{"name": "pound", "type": "crush", "style": "aggressive"}, {"name": "pummel", "type": "crush", "style": "aggressive"}, {"name": "block", "type": "crush", "style": "aggressive"}]}
+{"name": "bludgeon", "stances": [{"name": "block", "type": "crush", "style": "aggressive"}, {"name": "pummel", "type": "crush", "style": "aggressive"}, {"name": "pound", "type": "crush", "style": "aggressive"}]}
