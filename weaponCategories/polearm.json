@@ -1,1 +1,1 @@
-{"name": "polearm", "stances": [{"name": "fend", "type": "stab", "style": "defensive"}, {"name": "jab", "type": "stab", "style": "controlled"}, {"name": "swipe", "type": "slash", "style": "aggressive"}]}
+{"name": "polearm", "stances": [{"name": "swipe", "type": "slash", "style": "aggressive"}, {"name": "jab", "type": "stab", "style": "controlled"}, {"name": "fend", "type": "stab", "style": "defensive"}]}
