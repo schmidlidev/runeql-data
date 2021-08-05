@@ -1,1 +1,1 @@
-{"name": "spiked", "stances": [{"name": "block", "type": "crush", "style": "defensive"}, {"name": "spike", "type": "stab", "style": "controlled"}, {"name": "pound", "type": "crush", "style": "accurate"}, {"name": "pummel", "type": "crush", "style": "aggressive"}]}
+{"name": "spiked", "stances": [{"name": "block", "type": "crush", "style": "defensive"}, {"name": "pummel", "type": "crush", "style": "aggressive"}, {"name": "spike", "type": "stab", "style": "controlled"}, {"name": "pound", "type": "crush", "style": "accurate"}]}
