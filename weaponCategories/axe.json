@@ -1,1 +1,1 @@
-{"name": "axe", "stances": [{"name": "chop", "type": "slash", "style": "accurate"}, {"name": "block", "type": "slash", "style": "defensive"}, {"name": "smash", "type": "crush", "style": "aggressive"}, {"name": "hack", "type": "slash", "style": "aggressive"}]}
+{"name": "axe", "stances": [{"name": "block", "type": "slash", "style": "defensive"}, {"name": "smash", "type": "crush", "style": "aggressive"}, {"name": "hack", "type": "slash", "style": "aggressive"}, {"name": "chop", "type": "slash", "style": "accurate"}]}
