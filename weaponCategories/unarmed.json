@@ -1,1 +1,1 @@
-{"name": "unarmed", "stances": [{"name": "block", "type": "crush", "style": "defensive"}, {"name": "punch", "type": "crush", "style": "accurate"}, {"name": "kick", "type": "crush", "style": "aggressive"}]}
+{"name": "unarmed", "stances": [{"name": "kick", "type": "crush", "style": "aggressive"}, {"name": "punch", "type": "crush", "style": "accurate"}, {"name": "block", "type": "crush", "style": "defensive"}]}
