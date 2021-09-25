@@ -1,1 +1,1 @@
-{"name": "pickaxe", "stances": [{"name": "block", "type": "stab", "style": "defensive"}, {"name": "impale", "type": "stab", "style": "aggressive"}, {"name": "smash", "type": "crush", "style": "aggressive"}, {"name": "spike", "type": "stab", "style": "accurate"}]}
+{"name": "pickaxe", "stances": [{"name": "spike", "type": "stab", "style": "accurate"}, {"name": "smash", "type": "crush", "style": "aggressive"}, {"name": "block", "type": "stab", "style": "defensive"}, {"name": "impale", "type": "stab", "style": "aggressive"}]}
