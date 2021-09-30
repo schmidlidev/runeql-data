@@ -1,1 +1,1 @@
-{"name": "blunt", "stances": [{"name": "block", "type": "crush", "style": "defensive"}, {"name": "pummel", "type": "crush", "style": "aggressive"}, {"name": "pound", "type": "crush", "style": "accurate"}]}
+{"name": "blunt", "stances": [{"name": "pound", "type": "crush", "style": "accurate"}, {"name": "block", "type": "crush", "style": "defensive"}, {"name": "pummel", "type": "crush", "style": "aggressive"}]}
