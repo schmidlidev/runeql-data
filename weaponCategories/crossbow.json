@@ -1,1 +1,1 @@
-{"name": "crossbow", "stances": [{"name": "rapid", "type": "ranged", "style": "rapid"}, {"name": "longrange", "type": "ranged", "style": "longrange"}, {"name": "accurate", "type": "ranged", "style": "accurate"}]}
+{"name": "crossbow", "stances": [{"name": "longrange", "type": "ranged", "style": "longrange"}, {"name": "rapid", "type": "ranged", "style": "rapid"}, {"name": "accurate", "type": "ranged", "style": "accurate"}]}
